@@ -1,0 +1,19 @@
+/* reset */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+/* height percentage fix */
+
+html {
+	height: 100%;
+}
+
+body {
+	height: 100%;
+}
+
+/* begin custom css */
+
