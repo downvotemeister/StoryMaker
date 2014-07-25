@@ -1,0 +1,1 @@
+StoryMaker is a two-pronged project for the creation and playback of interactive stories.  It consists of a desktop application, the Designer, used for the creation of interactive story files, and a web application, the Reader, used for the playback of the story files.
