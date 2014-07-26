@@ -3,11 +3,13 @@
 	<head>
 		<title>Reader</title>
 		<link href="reader.css" rel="stylesheet"></link>
-		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-		<script src="reader.js"></script> <!-- because self-closing script tags don't work in half the browsers anymore... -->
 	</head>
 	<body>
 		<div id="container">
+			<input type="file" id="file_chooser"></input>
+			<p id="file_output"></p>
 		</div>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+		<script src="reader.js"></script>
 	</body>
 </html>
