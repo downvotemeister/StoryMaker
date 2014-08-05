@@ -23,3 +23,24 @@ body {
 	background-color: #EEE;
 	text-align: center;
 }
+
+#file_chooser {
+	padding-top: 10%;
+}
+
+#file_output {
+	padding-top: 10%;
+	font-family: sans-serif;
+	font-size: 48px;
+}
+
+#options {
+	padding-top: 30px;
+}
+
+#options button {
+	height: 50px;
+	font-size: 24px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
